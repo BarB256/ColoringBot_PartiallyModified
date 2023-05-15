@@ -7,3 +7,6 @@ Script was modified a bit, but i do not remember how much.
 USED FOR LEARNING
 
 Have fun :)
+
+
+Caffe model CANNOT be uploaded
